@@ -1,6 +1,6 @@
-# 🚀 Codeforces
+# 🚀 CODEFORCES
 
-Minhas soluções de problemas do **codeforce.com**.
+Minhas soluções de problemas do **codeforces.com**.
 
 ## 📁 Estrutura
 
