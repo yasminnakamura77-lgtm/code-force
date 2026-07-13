@@ -8,6 +8,6 @@ Para salvar e enviar as alterações para o repositório:
 
 ```bash
 git add .
-git commit -m "Mensagem da alteração"
+git commit -m "Alteração"
 git push
 ```
